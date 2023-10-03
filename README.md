@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Driss Haddadi</h1>
-<h3 align="center">I am learning code at @adatechschool</h3>
 
-- 🔭 I’m currently working on [merch-store](https://github.com/DrissHaddadi/merch-shop)
-
-- 🌱 I’m currently learning **React and Laravel**
 
 - 📫 How to reach me **driss.haddadi@outlook.fr**
 
