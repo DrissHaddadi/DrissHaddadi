@@ -1,12 +1,76 @@
-<h1 align="center">Hi 👋, I'm Driss Haddadi</h1>
+# Bienvenue sur mon profil GitHub ! 👋
+
+Je m'appelle Driss Haddadi et je suis à la recherche d'une alternance d'un an en tant que développeur full-stack ou développeur front-end après une année de formation initiale à Ada Tech School.
+
+## À propos de moi
+
+- 🔭 Je travaille actuellement sur **projet-perso-secret-^^**
+- 🌱 J'apprends actuellement **Supabase & GraphQL**
+- 📫 Vous pouvez me contacter à l'adresse : [driss.haddadi@outlook.fr](mailto:driss.haddadi@outlook.fr) ou me trouver sur [LinkedIn](https://linkedin.com/in/driss-haddadi).
+
+## Langages et Outils
+
+J'utilise une variété de langages et d'outils pour mes projets, notamment :
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **PHP**
+- **React**
+- **Next.js**
+- **Node.js**
+- **Express.js**
+- **Tailwind CSS**
+- **Bootstrap**
+- **Laravel**
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+- **Git**
+- **Docker**
+- **Figma**
+
+N'hésitez pas à explorer mes projets GitHub pour en savoir plus sur mes compétences et mes réalisations.
+
+## Projets
+
+### 1. cyberpunk-2077-fan-website
+
+[Repository GitHub](https://github.com/DrissHaddadi/cyberpunk-2077-fan-website) <br>
+[Déploiement](https://cyberpunk-2077-fan-website.vercel.app/)
+
+Ce projet est un site fan dédié au jeu vidéo Cyberpunk 2077. C'est avant tout une excuse pour pratiquer du code. En particulier pour m'exercer à React.js, Next.js et Tailwind CSS.
+Le projet se compose actuellement d'une landing page, d'une encyclopédie hébergée sur une base de données MongoDB en ligne et d'une page de galerie. L'application est WIP et n'est pas encore responsive.
+
+Languages : React.js, Next.js, Tailwind CSS, Node.js, MongoDB
+
+### 2. Yummi-Nouilles-restaurants
+
+[Repository GitHub](https://github.com/DrissHaddadi/Yummi-Nouilles-restaurants) <br>
+[Déploiement](https://driss-nouilles-restaurants.vercel.app/)
+
+Une landing application pour une chaîne de restauration fictive. J'ai réalisé ce projet en utilisant la maquette Figma du cours de OpenClassroom sur Figma dans le but de m'entraîner à reproduire fidèlement une maquette. L'application est responsive.
+
+Languages : React.js, Next.js, Tailwind CSS, Figma
+
+### 3. Meteo-App
+
+[Repository GitHub](https://github.com/DrissHaddadi/Meteo-App) <br>
+[Déploiement](https://driss-meteo-app.vercel.app/)
+
+Un classique des projets de développeurs juniors. Je l'ai créé pour m'exercer dans l'intégration d'API et pour m'essayer à la programmation orientée objet.
+
+Languages : HTML, CSS, JavaScript
+
+### 4. Dataviz---ExposParis
+
+[Repository GitHub](https://github.com/DrissHaddadi/Dataviz---ExposParis) <br>
+[Déploiement](https://dataviz-expos-paris.vercel.app/)
+
+Mon premier projet. Je l'ai réalisé à Ada Tech School dans un groupe de 3 personnes lors d'un sprint de 10 jours. Il s'agit d'une single page application en HTML, CSS et JavaScript native. L'application recense les expositions temporaires à Paris en exploitant l'API opendata de la mairie de Paris. Ce projet me tient beaucoup pour deux raisons. D'abord parce que c'est la première application que j'ai créée. Ensuite parce que je continue de l'utiliser occasionnellement pour organiser mes sorties.
+
+Languages : HTML, CSS, JavaScript
 
 
-- 📫 How to reach me **driss.haddadi@outlook.fr**
+## Merci d'avoir visité mon profil GitHub !
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/driss-haddadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="driss-haddadi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
